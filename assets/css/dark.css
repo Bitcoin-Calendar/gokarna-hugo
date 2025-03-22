@@ -34,7 +34,7 @@ a:hover .feather-moon {
 }
 
 .gk-social-icons-list .gk-social-icon a:hover {
-  fill: var(--accent-color);
+  fill: #ff9500;
 }
 
 .post-tags .post-tag:hover {

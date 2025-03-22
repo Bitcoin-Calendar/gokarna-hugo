@@ -444,6 +444,10 @@ table td {
   transition: fill 0.15s ease;
 }
 
+.gk-social-icon a:hover {
+  fill: #ff9500;
+}
+
 .home-content {
   line-height: 1.25;
   width: 80%;
